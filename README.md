@@ -1,6 +1,6 @@
 # Figma Font Generator CLI
 
-![Figma Font Generator](https://i.ibb.co/QNP4VFj/final-scaled-transformed-1.png)
+<p align="center"><a href="https://ibb.co/85rHwD4"><img src="https://i.ibb.co/QNP4VFj/final-scaled-transformed-1.png" alt="final-scaled-transformed-1" border="0"></a></p>
 
 This CLI helps to generate TTF or OTF font for list __svg__ icons and creates generate dart class.
 
